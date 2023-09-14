@@ -1,2 +1,4 @@
 Day 1
-Today I learned the fundamentals of java by solving simple 25 problems and also I didn't get tired while learning thats gives me the boost up skill and I'm exteremly feel motivated to improve this coding journey
+Today I learned the fundamentals of java by solving 25 problems.
+I didn't get tired while learning, which gives me the boost I need.
+I'm extremely motivated to improve this coding journey.Today I cover the first Two sections of the targeted repository.
